@@ -32,3 +32,5 @@ tr, td, th {
 }
 
 .heading { color : orange; }
+
+.name { text-size: 1.7rem; font-weight: bold;}
